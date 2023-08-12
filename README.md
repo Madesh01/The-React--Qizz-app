@@ -1,10 +1,18 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# photos view
+![Screenshot (13)](https://github.com/Madesh01/The-React--Qizz-app/assets/137975779/943ab508-b00e-47cc-82fb-cac0ff096c46)
+![Screenshot (14)](https://github.com/Madesh01/The-React--Qizz-app/assets/137975779/33cbfcb5-11e1-4b67-b639-54051475b7e5)
+![Screenshot (15)](https://github.com/Madesh01/The-React--Qizz-app/assets/137975779/c2ba8e29-f0ce-4f58-83c5-22269df7ebc2)
 
+![Screenshot (16)](https://github.com/Madesh01/The-React--Qizz-app/assets/137975779/c018c3f4-5b35-471f-9896-2fdc83e919bd)
+![Screenshot (17)](https://github.com/Madesh01/The-React--Qizz-app/assets/137975779/805913a4-c8d2-4298-b313-8a17e990b27b)
 ## Available Scripts
 
-In the project directory, you can run:
+
+In the project directory, you can ru
+n:
 
 ### `npm start`
 
